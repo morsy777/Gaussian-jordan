@@ -1,0 +1,74 @@
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Gaussian-Jordan-Method\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Gaussian-Jordan-Method\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Gaussian-Jordan-Method\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.MainGUI.resources
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csprojResolveAssemblyReference.cache
+E:\ali\linear algebra\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+E:\ali\linear algebra\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe
+E:\ali\linear algebra\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.pdb
+E:\ali\linear algebra\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.AssemblyReference.cache
+E:\ali\linear algebra\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.SuggestedBindingRedirects.cache
+E:\ali\linear algebra\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.MainGUI.resources
+E:\ali\linear algebra\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.GenerateResource.cache
+E:\ali\linear algebra\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.CoreCompileInputs.cache
+E:\ali\linear algebra\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+E:\ali\linear algebra\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
+F:\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+F:\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe
+F:\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.pdb
+F:\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.AssemblyReference.cache
+F:\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.MainGUI.resources
+F:\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.GenerateResource.cache
+F:\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.CoreCompileInputs.cache
+F:\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+F:\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
+C:\Users\20100\Desktop\مهم\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\20100\Desktop\مهم\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe
+C:\Users\20100\Desktop\مهم\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.pdb
+C:\Users\20100\Desktop\مهم\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.AssemblyReference.cache
+C:\Users\20100\Desktop\مهم\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\20100\Desktop\مهم\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.MainGUI.resources
+C:\Users\20100\Desktop\مهم\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.GenerateResource.cache
+C:\Users\20100\Desktop\مهم\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.CoreCompileInputs.cache
+C:\Users\20100\Desktop\مهم\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+C:\Users\20100\Desktop\مهم\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
+F:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+F:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe
+F:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.pdb
+F:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.AssemblyReference.cache
+F:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.MainGUI.resources
+F:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.GenerateResource.cache
+F:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.CoreCompileInputs.cache
+F:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+F:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
+E:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+E:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe
+E:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.pdb
+E:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.AssemblyReference.cache
+E:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.MainGUI.resources
+E:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.GenerateResource.cache
+E:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.CoreCompileInputs.cache
+E:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+E:\فلاشه 2\tasks2\first term\linear projects\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
+C:\Users\user\source\repos\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\user\source\repos\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe
+C:\Users\user\source\repos\gaussian-solver-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.pdb
+C:\Users\user\source\repos\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.MainGUI.resources
+C:\Users\user\source\repos\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.GenerateResource.cache
+C:\Users\user\source\repos\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+C:\Users\user\source\repos\gaussian-solver-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb

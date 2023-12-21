@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cb1eb11-d7ac-441d-8af8-08ec57ab556f": {
+      "ProjectGuid": "1cb1eb11-d7ac-441d-8af8-08ec57ab556f",
+      "DisplayName": "Gaussian-Jordan-Method",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
